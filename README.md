@@ -106,6 +106,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 - :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
 - :moneybag: [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
+- :free: [ChannelPacker](https://channelpacker.com) - Free online tool to pack AO, Roughness and Metallic maps for UE5/Unity. Local processing.
 
 #### Character Generators
 
